@@ -1,0 +1,13 @@
+Take two numbers and add them and print the result
+
+Check if a given year is a leap year or not.
+
+Print the pattern mention in a question
+
+WAP of java to find the biggest number among three
+
+Check if a number N is a palindrome or not.
+
+Check if a number N is prime or not.
+
+Find the reverse of a number N.
